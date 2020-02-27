@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 This is file within CEF branch.
 This is within Masters
 
 
 
+=======
+This is within Masters
+>>>>>>> f5f1166... Commit from master for cef.txt
